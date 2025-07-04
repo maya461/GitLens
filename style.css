@@ -1,0 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #D3F6DB;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;      
+  margin: 0;          
+}
+
+.boxit {
+  background: #78D5D7;
+  padding: 30px;
+  border-radius: 10px;
+  width: 400px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;  
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #24292e;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #444;
+}
+
+#profile {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#profile img {
+  border-radius: 50%;
+  width: 100px;
+}
+
+#profile a {
+  display: block;
+  margin-top: 10px;
+  color: #0366d6;
+  text-decoration: none;
+}
+
+h2 {
+  font-family:'Lora' ,'Playfair Display', cursive;
+  font-size: 36px;
+  color: #24292e;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+  
+  
