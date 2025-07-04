@@ -23,7 +23,7 @@ GitLens is a simple web app that lets you search for GitHub user profiles by use
 - GitHub Public REST API
 
 ## Screenshot
-![GitLens Screenshot](img-1.png)
-![GitLens Screenshot](img-2.png)
+![GitLens Screenshot](img1.png)
+![GitLens Screenshot](img2.png)
 
 
